@@ -13,3 +13,8 @@ https://mindthe5.org/* https://www.mindthe5.com 301!
 https://www.mindthe5.org/* https://www.mindthe5.com 301!
 # Netlify domain redirect
 https://domain-redirects-4acd96.netlify.app/* https://www.valueourminds.com 301!
+
+# Outbound social media directs
+https://out.valueourminds.com/the5/pledge/twitter https://twitter.com/intent/tweet?text=I%20pledged%20to%20%23mindthe5%20and%20take%20care%20of%20my%20mental%20health.%20Will%20you%20join%20me%3F%20Click%20here%3A%20https%3A%2F%2Fwww.valueourminds.com%2Fthe5%2F 302!
+https://out.valueourminds.com/the5/pledge/facebook https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.valueourminds.com%2Fthe5%2F 302!
+https://out.valueourminds.com/* https://www.valueourminds.com 302!
