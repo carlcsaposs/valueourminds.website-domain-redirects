@@ -6,6 +6,7 @@ on:
 
 jobs:
   deploy-prod:
+    if: github.repository == 'valueourminds/website-domain-redirects'
     runs-on: ubuntu-latest
 
     steps:
